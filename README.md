@@ -1,7 +1,9 @@
 # Hi there 
 [![MasterHeaad](https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg)](https://rishavchanada.io)
 <h1 align="center">Hi 👋, I'm badr bouzagui</h1>
+
 <h3 align="center">Software learner</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=bouzagui)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
