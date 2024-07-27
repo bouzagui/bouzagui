@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm badr bouzagui</h1>
 
 <h3 align="center">Software learner</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bouzagui)  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=bouzagui)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/bouzagui/contributions?format=svg&private=false)  
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
