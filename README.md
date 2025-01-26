@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Continuous Learner</h3>
 
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Matrix Animation" width="900" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Matrix Animation" width="900" height="100" />
 </p>
 
 
