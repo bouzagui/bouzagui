@@ -10,6 +10,25 @@
 
 ---
 
+<h2 align="left">💡 Core Experience</h2>
+<h4>C Programming Language</h4>
+<ul>
+  <li><strong>printf:</strong> Showcased a deep understanding of C's memory management and variadic functions.</li>
+  <li><strong>Simple Shell:</strong> Built a UNIX command-line interpreter entirely in C, implementing core shell functionality and process management.</li>
+</ul>
+
+<h4>Python, Flask, HTML, CSS, and JavaScript</h4>
+<ul>
+  <li><strong>Airbnb:</strong> Worked on this full-stack project, contributing to both the backend and frontend development.</li>
+</ul>
+
+<h4>React.js & Tailwind CSS</h4>
+<ul>
+  <li><strong>PrimeEats:</strong> Developed the front end of an international food delivery application using ReactJS and Tailwind CSS.</li>
+</ul>
+
+---
+
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
   <a href="https://twitter.com/mcbadr13" target="blank">
@@ -81,6 +100,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzagui&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-Feel free to copy this and replace your current README file! It’s clean, organized, and highlights your skills and projects effectively. Let me know if you'd like any additional tweaks. 🚀
