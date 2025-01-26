@@ -1,13 +1,10 @@
 # Hi there 
-[![MasterHeaad](https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg)](https://rishavchanada.io)
 <h1 align="center">Hi 👋, I'm badr bouzagui</h1>
 
 <h3 align="center">Software learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouzagui&label=Profile%20views&color=0e75b6&style=flat" alt="bouzagui" /> </p>
 
 - 🌱 I’m currently learning **C Programming Langauge**
 
