@@ -6,9 +6,9 @@
 </p>
 
 
-- 🌱 I’m currently learning **React.js**  
-- 👨‍💻 I’m currently working on **PrimeEats V2**  
-- 💬 Ask me about **Python, React, and Flask**  
+- 🌱 I’m currently learning **Nextjs**  
+- 👨‍💻 I’m currently working on **Rhitoric**  
+- 💬 Ask me about **Python Flask, JavaScript & TypeScript, React, nextjs, dart, flutter**  
 - ⚡ Fun fact: I love debugging as much as coding!  
 
 ---
